@@ -1,0 +1,31 @@
+[
+		{
+		"prompt" : [
+      "a name",
+      "a thing",
+      "a feeling",
+      "another feeling",
+      "some things"],
+
+		"story" : "Once upon a time a %s ate a %s and felt very %s. It was a %s day for all good %s."
+		},
+
+		{
+		"prompt" : [
+      "a name",
+      "a sport",
+      "another name",
+      "an emotion"],
+
+		"story" : "Once upon a time %s wanted to play %s ,he asked his friend %s to join him. Unfortunately his friend was %s and couldn't join."
+		},
+
+		{
+		"prompt" : [
+      "a couple of things",
+      "a thing","a feeling",
+      "an action",
+      "a feeling"],
+		"story" : "Once upon a time two %s found a %s and got very %s. They %s it and that made them feel %s."
+		}
+		]
